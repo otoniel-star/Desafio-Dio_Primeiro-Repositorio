@@ -1,2 +1,18 @@
 link para dowload do git
 https://git-scm.com/
+
+comando interessantes
+
+-->git bash here com o git na pasta que vc quer colocar o repositorio
+	git clone (clona o repositorio a partir da url)
+	-->git bash here na pasta 
+		git status (para acompanhar o status)
+		-->fazer alguma alteração e depois rodar o git status se vai ver uma menssagem em vermelho
+		git add. (adciona no repositorio local)
+		git status (vai ficar verde confirmando que esta salvo para fazer commit)  
+		git commit -m "Comentario de commite"
+		git status
+		git push origin main (manda atualização de tudo para o github)
+	
+	
+	
